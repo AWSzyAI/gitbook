@@ -1,9 +1,17 @@
 # 八、我在。——AI
 
-DL 深度学习\
-\[动手学深度学习]\([https://zh-v2.d2l.ai/](https://zh-v2.d2l.ai/))
+{% hint style="info" %}
+学习资源/路径
 
-CV 计算机视觉
+电子书，视频
+{% endhint %}
 
-NLP 自然语言处理
+{% tabs %}
+{% tab title="书" %}
+* [ ] [动手学深度学习](https://zh-v2.d2l.ai/)
+{% endtab %}
 
+{% tab title="视频" %}
+* [ ] [跟李沐学AI](https://space.bilibili.com/1567748478)
+{% endtab %}
+{% endtabs %}
