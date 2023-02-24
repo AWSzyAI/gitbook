@@ -22,6 +22,7 @@
   * [命令行](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/ming-ling-hang.md)
   * [操作系统](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/cao-zuo-xi-tong.md)
   * [数据结构与系统](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/shu-ju-jie-gou-yu-xi-tong.md)
+  * [SSH](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/ssh.md)
 * [十、在座的应该只有你不会吧：软件](shi-zai-zuo-de-ying-gai-zhi-you-ni-bu-hui-ba-ruan-jian/README.md)
   * [时子延在用的软件](shi-zai-zuo-de-ying-gai-zhi-you-ni-bu-hui-ba-ruan-jian/shi-zi-yan-zai-yong-de-ruan-jian.md)
   * [GitBook](shi-zai-zuo-de-ying-gai-zhi-you-ni-bu-hui-ba-ruan-jian/gitbook/README.md)

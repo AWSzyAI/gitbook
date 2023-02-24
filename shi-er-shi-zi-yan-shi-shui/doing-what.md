@@ -55,12 +55,4 @@ ChatGPT
 
 3D打印
 {% endtab %}
-
-{% tab title="比赛证书" %}
-* [ ] 蓝桥杯
-* [ ] 大创
-* [ ] 挑战者
-* [ ] 普通话
-* [ ] 教师资格证
-{% endtab %}
 {% endtabs %}
