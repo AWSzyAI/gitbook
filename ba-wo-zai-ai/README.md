@@ -14,11 +14,4 @@
 {% tab title="视频" %}
 * [ ] [跟李沐学AI](https://space.bilibili.com/1567748478)
 {% endtab %}
-
-{% tab title="模型" %}
-* [ ] ChatGPT
-* [ ] AlphaFold 2
-* [ ] [ColossalAI](https://colossalai.org/)
-*
-{% endtab %}
 {% endtabs %}
