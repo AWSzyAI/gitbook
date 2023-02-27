@@ -6,14 +6,20 @@
 * [ ] 体验Notion-AI
 
 {% tabs %}
-{% tab title="undefined" %}
+{% tab title="南师大" %}
 
+{% endtab %}
+
+{% tab title="运动" %}
+* [ ] 网球
+* [ ] 羽毛球
+* [ ] 漂移板
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="炼丹" %}
-
+* 熟练使用GPU集群复现论文模型代码
 {% endtab %}
 
 {% tab title="算法" %}
