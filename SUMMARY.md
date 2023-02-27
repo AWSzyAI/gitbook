@@ -1,6 +1,10 @@
 # Table of contents
 
-* [Principle：他说](README.md)
+* [时子延是谁？](README.md)
+  * [Do What](shi-zi-yan-shi-shui/do-what.md)
+  * [Doing what](shi-zi-yan-shi-shui/doing-what.md)
+  * [不会？想会？](shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
+* [Principle：他说](<README (1).md>)
 * [一、读不懂就别读了：如何阅读？](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du.md)
 * [二、提示工程师：如何提问？](er-ti-shi-gong-cheng-shi-ru-he-ti-wen.md)
 * [三、有问题就有答案：Bing与ChatGPT](san-you-wen-ti-jiu-you-da-an-bing-yu-chatgpt.md)
@@ -46,10 +50,6 @@
   * [Android](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/android/README.md)
     * [微信小程序](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/android/wei-xin-xiao-cheng-xu.md)
   * [iOS/iPadOS](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/ios-ipados.md)
-* [十二、时子延是谁？](shi-er-shi-zi-yan-shi-shui/README.md)
-  * [Do What](shi-er-shi-zi-yan-shi-shui/do-what.md)
-  * [Doing what](shi-er-shi-zi-yan-shi-shui/doing-what.md)
-  * [不会？想会？](shi-er-shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
 * [十三、脑：认知、思维、意识、记忆与学习](shi-san-nao-ren-zhi-si-wei-yi-shi-ji-yi-yu-xue-xi.md)
 * [十四、高级欲望：它按照自己想要的创造出一个世界](shi-si-gao-ji-yu-wang-ta-an-zhao-zi-ji-xiang-yao-de-chuang-zao-chu-yi-ge-shi-jie/README.md)
   * [想法](shi-si-gao-ji-yu-wang-ta-an-zhao-zi-ji-xiang-yao-de-chuang-zao-chu-yi-ge-shi-jie/xiang-fa.md)
