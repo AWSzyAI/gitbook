@@ -58,3 +58,4 @@
   * [需求](shi-si-gao-ji-yu-wang-ta-an-zhao-zi-ji-xiang-yao-de-chuang-zao-chu-yi-ge-shi-jie/xu-qiu.md)
 * [十五、人生的意义](shi-wu-ren-sheng-de-yi-yi.md)
 * [附录一：Let‘s Play！](fu-lu-yi-lets-play.md)
+* [附录二：做过的事](fu-lu-er-zuo-guo-de-shi.md)
