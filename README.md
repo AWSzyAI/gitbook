@@ -10,8 +10,8 @@ description: >-
 * [时子延官网](http://www.aiszy.life/)
 * [时子延行为日志](http://www.aiszy.life/data.html)
 * [时子延官方文档：博客//文章](https://0c43d9.bk-free01.com/)
-* [时子延手稿](https://szy-2.gitbook.io/szynote/)
-* [Github](https://github.com/AWSzyAI)-AWSzyAI
+* [时子延手稿](https://szy-2.gitbook.io/szynote/)：GitBook
+* [Github](https://github.com/AWSzyAI)：AWSzyAI
 * QQ空间
 * 朋友圈
 * 知乎

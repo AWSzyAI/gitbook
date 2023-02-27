@@ -64,3 +64,16 @@ ChatGPT
 * [ ] 教师资格证
 {% endtab %}
 {% endtabs %}
+
+{% tabs %}
+{% tab title="炼丹" %}
+充分利用GPU集群阅读并复现论文，掌握各种模型、稍作改进、构想自己的课题和模型
+
+* [ ] nanoGPT
+*
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
