@@ -2,3 +2,15 @@
 
 * Edge & OneTab
 * OneNote：iPad写，电脑输入，手机查看
+
+{% tabs %}
+{% tab title="Mac" %}
+* [ ] Blender
+* [ ] MATLAB
+*
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
