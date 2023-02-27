@@ -49,7 +49,9 @@ description: >-
 
 {% tabs %}
 {% tab title="Python" %}
-
+* [ ] [paddlepaddle-API文档](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/index\_cn.html)
+* [ ] [PyTorch-Doc](https://pytorch.org/docs/stable/index.html)
+* [ ] [PyGWalker](https://pypi.org/project/pygwalker/)
 {% endtab %}
 
 {% tab title="Java" %}
