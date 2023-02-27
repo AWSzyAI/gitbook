@@ -10,14 +10,15 @@ description: >-
 * [时子延官网](http://www.aiszy.life/)
 * [时子延行为日志](http://www.aiszy.life/data.html)
 * [时子延官方文档：博客//文章](https://0c43d9.bk-free01.com/)
-* [时子延手稿](https://szy-2.gitbook.io/szynote/)：GitBook
-* [Github](https://github.com/AWSzyAI)：AWSzyAI
-* QQ空间
+* [时子延手稿](https://szy-2.gitbook.io/szynote/)
+* [Github](https://github.com/AWSzyAI)
+* QQ空间:189187327
 * 朋友圈
 * 知乎
+* szy@nnu.edu.cn
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="成就" %}
+2021 全国中学生生物学联赛 省级赛区一等奖 江苏省第13名
 {% endtab %}
 {% endtabs %}
