@@ -10,9 +10,7 @@ description: 一些有用的东西，没必要一直记着，浪费脑子，需�
 
 {% embed url="https://xsxk.nnu.edu.cn/" %}
 
-
-
-![](../../.gitbook/assets/1677153931171.jpg)
+![](../../.gitbook/assets/c520406ef630184371ca0f72c0842a34.png)
 
 ![](../../.gitbook/assets/1677153997483.png)
 
