@@ -18,6 +18,8 @@
 
 {% tab title="习惯" %}
 * [ ] 坐姿
+* [ ] 睡前复习：GitBook、OneNote、Finder-note
+* [ ] 背单词
 {% endtab %}
 {% endtabs %}
 
