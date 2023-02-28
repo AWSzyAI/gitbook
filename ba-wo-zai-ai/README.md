@@ -1,20 +1,18 @@
 # 八、炼丹：AI
 
 {% hint style="success" %}
-学习资源/路径
-
-电子书，视频
+学习资源、学习路径、前人经验
 {% endhint %}
 
 {% tabs %}
-{% tab title="算力平台" %}
+{% tab title="算力" %}
 * [时子延实验室-AIstudio-paddlepaddle](https://aistudio.baidu.com/aistudio/projectdetail/5588234)
 * [OpenBayes](https://openbayes.com/)
 * [Google Collab](https://colab.research.google.com/drive/1-MPoOR79eM\_oMg0s8Hmu0ZgEOw6-jCFG#scrollTo=GLysaga2q2uR) & [Coogle Cloud](https://drive.google.com/drive/search?q=owner:me%20\(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab\))（15G）
 * 南师大计算中心GPU集群
 {% endtab %}
 
-{% tab title="模型框架" %}
+{% tab title="框架" %}
 * [ ] [paddle](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/index\_cn.html)
 * [ ] [torch](https://pytorch-cn.readthedocs.io/zh/latest/package\_references/torch/)
 * [ ] [tenserflow](https://tensorflow.google.cn/?hl=zh-cn)
