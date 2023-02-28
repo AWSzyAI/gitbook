@@ -15,6 +15,10 @@
 * [ ] 羽毛球
 * [ ] 漂移板
 {% endtab %}
+
+{% tab title="习惯" %}
+* [ ] 坐姿
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
