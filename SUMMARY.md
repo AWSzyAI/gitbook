@@ -1,7 +1,7 @@
 # Table of contents
 
 * [时子延是谁？](README.md)
-  * [Do What](shi-er-shi-zi-yan-shi-shui/do-what.md)
+  * [DDL](shi-zi-yan-shi-shui/ddl.md)
   * [Doing what](shi-er-shi-zi-yan-shi-shui/doing-what.md)
   * [不会？想会？](shi-er-shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
 * [Principle：他说](<README (1).md>)
