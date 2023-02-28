@@ -11,7 +11,7 @@
 {% endtab %}
 
 {% tab title="下载" %}
-* [VScode Config Helper：运行单个C++文件](https://v4.vscch.tk)
+*
 *
 {% endtab %}
 {% endtabs %}
