@@ -24,6 +24,7 @@
 * [ ] [seaborn](https://seaborn.pydata.org/)
 * [ ] [openai](https://pypi.org/project/openai/)
 * [ ] [OpenAI-API](https://platform.openai.com/docs/introduction)
+* [ ] [d2l-Github](https://github.com/d2l-ai/d2l-zh/releases)
 {% endtab %}
 
 {% tab title="模型" %}
@@ -40,9 +41,5 @@
 
 {% tab title="视频" %}
 * [ ] [跟李沐学AI](https://space.bilibili.com/1567748478)
-{% endtab %}
-
-{% tab title="网站" %}
-* [ ] [OpenAI](https://openai.com/)
 {% endtab %}
 {% endtabs %}
