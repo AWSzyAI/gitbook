@@ -21,6 +21,10 @@
 * [ ] 睡前复习：GitBook、OneNote、Finder-note
 * [ ] 背单词
 {% endtab %}
+
+{% tab title="@#¥%&*" %}
+* [ ] 青年大学习
+{% endtab %}
 {% endtabs %}
 
 {% tabs %}
