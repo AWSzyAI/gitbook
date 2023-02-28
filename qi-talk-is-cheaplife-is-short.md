@@ -59,10 +59,24 @@ description: >-
 {% endtab %}
 
 {% tab title="C/C++" %}
-
+* [ ] 《C++面向对象程序设计》
+* [ ] e-Effective C++中文第三版
+* [ ] e-[C++Primer3rdEdition中文完美版](https://www.aliyundrive.com/s/M2faiAr86Ve)
 {% endtab %}
 
 {% tab title="汇编语言" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="不会" %}
+* [ ] [Node.js](http://nodejs.cn/api/)
+* [ ] [nvm](https://github.com/nvm-sh/nvm)
+* [ ] [brew](https://brew.sh/)
+{% endtab %}
+
+{% tab title="Second Tab" %}
 
 {% endtab %}
 {% endtabs %}
