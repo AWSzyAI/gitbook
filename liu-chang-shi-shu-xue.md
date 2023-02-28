@@ -6,6 +6,7 @@
 * [ ] 离散数学
 * [ ] 线性代数
 * [ ] 概率论与数理统计
+* [ ] [3blue1brown](https://www.3blue1brown.com/)
 {% endtab %}
 
 {% tab title="兴趣" %}
