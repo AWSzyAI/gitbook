@@ -1,4 +1,4 @@
-# 八、我在。——AI
+# 八、炼丹：AI
 
 {% hint style="info" %}
 学习资源/路径
@@ -41,10 +41,12 @@
 {% endtab %}
 
 {% tab title="模型框架" %}
+* [ ] [paddle](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/index\_cn.html)
+* [ ] [torch](https://pytorch-cn.readthedocs.io/zh/latest/package\_references/torch/)
+* [ ] [tenserflow](https://tensorflow.google.cn/?hl=zh-cn)
 * [ ] [ncps](https://github.com/mlech26l/ncps)
 * [ ] [numpy](https://www.numpy.org.cn/)
-* [ ] torch
 * [ ] [pytorch\_lightning](https://pytorch-lightning.readthedocs.io/en/stable/index.html)
-* [ ] seaborn
+* [ ] [seaborn](https://seaborn.pydata.org/)
 {% endtab %}
 {% endtabs %}
