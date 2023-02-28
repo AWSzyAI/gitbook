@@ -15,7 +15,7 @@
   * [OneNote：自由](si-di-er-da-nao-bo-ke-ri-zhi-yu-xue-xi-bi-ji/onenote-zi-you.md)
 * [五、教材、网页、论文货币：英语](wu-jiao-cai-wang-ye-lun-wen-huo-bi-ying-yu.md)
 * [六、常识：数学](liu-chang-shi-shu-xue.md)
-* [七、Talk is cheap\&Life is short](qi-talk-is-cheaplife-is-short/README.md)
+* [七、Talk is cheap\&Life is short](qi-talk-is-cheaplife-is-short.md)
   * [Python](qi-talk-is-cheaplife-is-short/python.md)
 * [八、炼丹：AI](ba-wo-zai-ai/README.md)
   * [深度学习](ba-wo-zai-ai/shen-du-xue-xi.md)

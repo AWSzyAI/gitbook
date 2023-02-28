@@ -8,7 +8,7 @@ description: >-
 
 [CS自学指南](https://csdiy.wiki)
 
-[优课达](https://apps.youkeda.com/learn)
+[优课达](https://apps.youkeda.com/learn)-研发特训营
 
 {% tabs %}
 {% tab title="P3" %}
@@ -81,3 +81,23 @@ description: >-
 * [ ] [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 {% endtab %}
 {% endtabs %}
+
+优课达-Python大数据分析
+
+{% tabs %}
+{% tab title="爬虫" %}
+* [ ] Python语言入门
+* [ ] 人脸识别入门实战
+* [ ] Python网络
+* [ ] Python正则表达式
+* [ ] Python爬虫
+{% endtab %}
+
+{% tab title="数据分析" %}
+* [ ] MongDB
+* [ ] Python Excel进阶
+* [ ] Python大数据可视化
+* [ ] Python Web
+{% endtab %}
+{% endtabs %}
+
