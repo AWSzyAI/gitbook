@@ -2,9 +2,6 @@
 
 {% embed url="http://www.aiszy.life/data.html" %}
 
-* [ ] 安装并使用本地版GitBook
-* [ ] 体验Notion-AI
-
 {% tabs %}
 {% tab title="南师大" %}
 
@@ -25,6 +22,7 @@
 {% tab title="@#¥%&*" %}
 * [ ] 青年大学习
 * [ ] 步道乐跑
+* [ ] 志愿时长
 {% endtab %}
 {% endtabs %}
 

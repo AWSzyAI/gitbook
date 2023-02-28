@@ -70,13 +70,14 @@ description: >-
 {% endtabs %}
 
 {% tabs %}
-{% tab title="不会" %}
+{% tab title="new" %}
 * [ ] [Node.js](http://nodejs.cn/api/)
 * [ ] [nvm](https://github.com/nvm-sh/nvm)
 * [ ] [brew](https://brew.sh/)
+* [ ] [Git-LFS](https://git-lfs.com/)
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="projects" %}
+* [ ] [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 {% endtab %}
 {% endtabs %}
