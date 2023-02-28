@@ -19,10 +19,14 @@
 * [ ] ChatGPT
 * [ ] AlphaFold 2
 * [ ] [ColossalAI](https://colossalai.org/)
-*
+
+
 {% endtab %}
 
 {% tab title="软件" %}
 
 {% endtab %}
 {% endtabs %}
+
+* [https://github.com/mlech26l/ncps](https://github.com/mlech26l/ncps)
+*
