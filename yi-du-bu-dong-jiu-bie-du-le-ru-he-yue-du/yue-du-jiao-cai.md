@@ -42,4 +42,4 @@ description: //本文转自
 
 最后引用法国学者Pascal曾经说过的一句话作为此贴的结尾吧：
 
-<mark style="color:red;background-color:green;">"读得太快或太慢，都一无所获。"</mark>
+_<mark style="color:red;">**"读得太快或太慢，都一无所获。"**</mark>_
