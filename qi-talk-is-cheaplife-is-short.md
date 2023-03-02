@@ -6,9 +6,8 @@ description: >-
 
 # 七、Talk is cheap\&Life is short
 
-[CS自学指南](https://csdiy.wiki)
-
-[优课达](https://apps.youkeda.com/learn)-研发特训营
+* [CS自学指南](https://csdiy.wiki)
+* [优课达](https://apps.youkeda.com/learn)-研发特训营
 
 {% tabs %}
 {% tab title="P3" %}
@@ -44,6 +43,25 @@ description: >-
 * [ ] 数据结构与算法进阶
 * [ ] Java体验
 * [ ] Python体验
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="AcWing" %}
+* [ ] 蓝桥杯
+* [ ] 算法基础
+* [ ] 算法进阶
+* [ ] 每日一题
+{% endtab %}
+
+{% tab title="菜鸟教程" %}
+* [ ] [菜鸟教程](https://www.runoob.com/)
+* [ ] [数据结构与算法](https://www.runoob.com/data-structures/data-structures-tutorial.html)
+{% endtab %}
+
+{% tab title="蓝桥云课" %}
+* [ ] [蓝桥云课](https://www.lanqiao.cn/)
+* [ ] [MySQL 基础课程](https://www.lanqiao.cn/courses/9)
 {% endtab %}
 {% endtabs %}
 
