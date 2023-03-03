@@ -14,5 +14,10 @@
 * [ ] 拓扑学
 * [ ] 因果论
 {% endtab %}
+
+{% tab title="Untitled" %}
+* [ ] [本源溯知](https://learn.originqc.com.cn/)
+*
+{% endtab %}
 {% endtabs %}
 
