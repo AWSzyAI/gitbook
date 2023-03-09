@@ -37,4 +37,9 @@
 * [LeetCode](https://leetcode.cn/)
 * [AcWing](https://www.acwing.com/)
 {% endtab %}
+
+{% tab title="司南杯" %}
+* [ ] [Bilibli-Quantum Computing](https://www.bilibili.com/video/BV1oq4y1j7iZ/)
+*
+{% endtab %}
 {% endtabs %}
