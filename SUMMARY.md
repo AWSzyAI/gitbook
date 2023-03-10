@@ -48,6 +48,7 @@
   * [Windows](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/windows/README.md)
     * [校园网大杀器:windows11热点](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/windows/xiao-yuan-wang-da-sha-qi-windows11-re-dian.md)
   * [MacOS](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/macos/README.md)
+    * [Mac使用VPN后浏览器无法上网](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/macos/mac-shi-yong-vpn-hou-liu-lan-qi-wu-fa-shang-wang.md)
     * [自动操作](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/macos/zi-dong-cao-zuo.md)
   * [Android](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/android/README.md)
     * [微信小程序](shi-yi-gao-ji-ni-zhen-de-hui-yong-dian-nao-ma/android/wei-xin-xiao-cheng-xu.md)
