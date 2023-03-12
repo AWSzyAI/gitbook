@@ -24,4 +24,6 @@
 
 * 开始精度<mark style="color:red;">**论文**</mark>并养成习惯
 * 无障碍<mark style="color:red;">**英文**</mark>教材阅读、课程听讲、论文阅读、题目解答，软件操作、手册使用。
+* 开始在睡觉时实现自动化产能并推广到全部时间段-让程序自己跑：<mark style="color:red;">睡后收入</mark>
+* 第一时间完成必须要完成的作业和任务
 {% endhint %}
