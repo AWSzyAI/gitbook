@@ -64,6 +64,7 @@
   * [矛盾](shi-si-gao-ji-yu-wang-ta-an-zhao-zi-ji-xiang-yao-de-chuang-zao-chu-yi-ge-shi-jie/mao-dun.md)
   * [需求](shi-si-gao-ji-yu-wang-ta-an-zhao-zi-ji-xiang-yao-de-chuang-zao-chu-yi-ge-shi-jie/xu-qiu.md)
 * [十五、人生的意义](shi-wu-ren-sheng-de-yi-yi.md)
+  * [2023怎么活的](shi-wu-ren-sheng-de-yi-yi/2023-zen-mo-huo-de.md)
   * [舌尖上的舌尖](shi-wu-ren-sheng-de-yi-yi/she-jian-shang-de-she-jian.md)
 * [附录一：Let‘s Play！](fu-lu-yi-lets-play.md)
 * [附录二：做过的事](fu-lu-er-zuo-guo-de-shi.md)
