@@ -11,6 +11,8 @@
 * [ ] 网球
 * [ ] 羽毛球
 * [ ] 漂移板
+
+
 {% endtab %}
 
 {% tab title="习惯" %}
@@ -25,6 +27,24 @@
 * [ ] 志愿时长
 {% endtab %}
 {% endtabs %}
+
+## 整理
+
+{% tabs %}
+{% tab title="记笔记" %}
+1. GitBook：展台：成果展示、记录
+2. OneNote：工作台：快速记录，及时整理
+3. MarkDown：项目驱动，资料积累，完结后展示。
+4. Flomo：灵感记录，自我对话。
+5. Notability：工作台：手写数学笔记，完成后转PDF。
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+## 学习
 
 {% tabs %}
 {% tab title="炼丹" %}
