@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Principle：他说](README.md)
-* [时子延是谁？](<README (1).md>)
+* [时子延是谁？](README.md)
   * [2023怎么活的](shi-wu-ren-sheng-de-yi-yi/2023-zen-mo-huo-de.md)
   * [DDL](shi-zi-yan-shi-shui/ddl.md)
   * [Doing what](shi-er-shi-zi-yan-shi-shui/doing-what.md)

@@ -4,12 +4,6 @@ description: 先生，你做的每件事，都很重要。
 
 # Principle：他说
 
-{% embed url="http://www.aiszy.life" %}
-时子延(www.aiszy.life) szy@nnu.edu.cn&#x20;
-{% endembed %}
-
-{% embed url="https://github.com/AWSzyAI" %}
-
 ## <mark style="color:green;">时子延应该如何度过他的本科四年？</mark>
 
 ### <mark style="color:purple;">大一</mark>
@@ -50,3 +44,9 @@ description: 先生，你做的每件事，都很重要。
 ### 大三
 
 ### 大四
+
+{% embed url="http://www.aiszy.life" %}
+时子延(www.aiszy.life) szy@nnu.edu.cn&#x20;
+{% endembed %}
+
+{% embed url="https://github.com/AWSzyAI" %}
