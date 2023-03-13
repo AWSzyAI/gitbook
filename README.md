@@ -23,13 +23,17 @@ description: 先生，你做的每件事，都很重要。
 {% hint style="warning" %}
 大一结束时，时子延应该具备以下能力：
 
-1. Python数据可视化制图、
-2. 前后端网络编程网站设计、
-3. 微信小程序开发、
-4. 人工智能领域论文阅读实践和行业风向把握，
-5. 个人网站与Gitbook的实用精美搭建；
+* [ ] Python数据可视化制图
 
-读完：
+有如下可检验的项目成果：
+
+* [ ] 完成一个微信小程序开发
+* [ ] 利用GPU集群复现一篇AI领域的论文
+* [ ] 在[https://awszyai.github.io/](https://awszyai.github.io/)上部署Gitbook
+* [ ] 利用前后端知识完成[www.aiszy.life](http://www.aiszy.life/)主页和用户登录及权限分发的设计
+* [ ] 在[www.aiszy.life](http://www.aiszy.life/)集成各大网盘的文件进行在线访问
+
+读完这些很想读的书：
 
 1. 《动手学深度学习》
 2. 《为什么》《因果论》
