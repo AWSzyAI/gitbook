@@ -2,7 +2,7 @@
 
 * [Principle：他说](README.md)
 * [时子延是谁？](<README (1).md>)
-  * [2023怎么活的](shi-zi-yan-shi-shui/2023-zen-mo-huo-de.md)
+  * [2023怎么活的](shi-wu-ren-sheng-de-yi-yi/2023-zen-mo-huo-de.md)
   * [DDL](shi-zi-yan-shi-shui/ddl.md)
   * [Doing what](shi-er-shi-zi-yan-shi-shui/doing-what.md)
   * [不会？想会？](shi-er-shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
@@ -19,7 +19,7 @@
 * [六、常识：数学](liu-chang-shi-shu-xue.md)
 * [七、Talk is cheap\&Life is short](qi-talk-is-cheaplife-is-short.md)
   * [Python](qi-talk-is-cheaplife-is-short/python.md)
-* [八、炼丹：AI](ba-lian-dan-ai.md)
+* [八、炼丹：AI](ba-wo-zai-ai/README.md)
 * [九、硅基外脑：计算机基础](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/README.md)
   * [命令行](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/ming-ling-hang.md)
   * [操作系统](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/cao-zuo-xi-tong.md)
