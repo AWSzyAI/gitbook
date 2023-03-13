@@ -1,10 +1,10 @@
 # Table of contents
 
-* [时子延是谁？](README.md)
+* [Principle：他说](README.md)
+* [时子延是谁？](<README (1).md>)
   * [DDL](shi-zi-yan-shi-shui/ddl.md)
   * [Doing what](shi-er-shi-zi-yan-shi-shui/doing-what.md)
   * [不会？想会？](shi-er-shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
-* [Principle：他说](<README (1).md>)
 * [一、读不懂就别读了：如何阅读？](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/README.md)
   * [阅读教材](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/yue-du-jiao-cai.md)
 * [二、提示工程师：如何提问？](er-ti-shi-gong-cheng-shi-ru-he-ti-wen.md)
