@@ -10,6 +10,8 @@
 * [OpenBayes](https://openbayes.com/)
 * [Google Collab](https://colab.research.google.com/drive/1-MPoOR79eM\_oMg0s8Hmu0ZgEOw6-jCFG#scrollTo=GLysaga2q2uR) & [Coogle Cloud](https://drive.google.com/drive/search?q=owner:me%20\(type:application/vnd.google.colaboratory%20||%20type:application/vnd.google.colab\))（15G）
 * 南师大计算中心GPU集群
+* [MISTGPU](https://mistgpu.com/)
+* [趋动云](https://virtaicloud.com/)
 {% endtab %}
 
 {% tab title="框架" %}
