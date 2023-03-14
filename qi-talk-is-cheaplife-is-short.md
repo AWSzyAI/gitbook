@@ -66,6 +66,13 @@ description: >-
 {% endtabs %}
 
 {% tabs %}
+{% tab title="C++" %}
+* [ ] 《C++面向对象程序设计》
+* [ ] e-Effective C++中文第三版
+* [ ] e-[C++Primer3rdEdition中文完美版](https://www.aliyundrive.com/s/M2faiAr86Ve)
+* [ ] [cppreference.com](https://en.cppreference.com/w/)
+{% endtab %}
+
 {% tab title="Python" %}
 * [ ] [paddlepaddle-API文档](https://www.paddlepaddle.org.cn/documentation/docs/zh/api/index\_cn.html)
 * [ ] [PyTorch-Doc](https://pytorch.org/docs/stable/index.html)
@@ -76,11 +83,8 @@ description: >-
 
 {% endtab %}
 
-{% tab title="C/C++" %}
-* [ ] 《C++面向对象程序设计》
-* [ ] e-Effective C++中文第三版
-* [ ] e-[C++Primer3rdEdition中文完美版](https://www.aliyundrive.com/s/M2faiAr86Ve)
-* [ ] [cppreference.com](https://en.cppreference.com/w/)
+{% tab title="C" %}
+* [ ] [C语言入门教程-阮一峰](https://njnueducn-my.sharepoint.com/:b:/g/personal/19220422\_njnu\_edu\_cn/ETcj4FqeXTtMrGDGokiBKXcBpCaJ3j7s3AIwPCIdtyJ4BQ?e=aKiUSv)
 {% endtab %}
 
 {% tab title="汇编语言" %}
