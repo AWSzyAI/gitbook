@@ -8,6 +8,7 @@
   * [不会？想会？](shi-er-shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
 * [一、读不懂就别读了：如何阅读？](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/README.md)
   * [阅读教材](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/yue-du-jiao-cai.md)
+  * [阅读书单](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/yue-du-shu-dan.md)
 * [二、提示工程师：如何提问？](er-ti-shi-gong-cheng-shi-ru-he-ti-wen.md)
 * [三、有问题就有答案：Bing与ChatGPT](san-you-wen-ti-jiu-you-da-an-bing-yu-chatgpt.md)
 * [四、第二大脑：博客、日志与学习笔记](si-di-er-da-nao-bo-ke-ri-zhi-yu-xue-xi-bi-ji/README.md)
