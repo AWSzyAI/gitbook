@@ -6,8 +6,6 @@ description: >-
 
 # 七、Talk is cheap\&Life is short
 
-*
-
 {% hint style="info" %}
 ## 学习路径
 
@@ -48,8 +46,6 @@ description: >-
 
 {% endtab %}
 {% endtabs %}
-
-*
 
 {% hint style="danger" %}
 ## 打卡速刷
@@ -132,7 +128,9 @@ description: >-
 {% endtab %}
 {% endtabs %}
 
+{% hint style="warning" %}
 Python大数据分析
+{% endhint %}
 
 {% tabs %}
 {% tab title="爬虫" %}
