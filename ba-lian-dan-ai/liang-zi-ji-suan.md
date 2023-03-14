@@ -1,19 +1,26 @@
 # 量子计算
 
 {% hint style="success" %}
-## 司南杯
+## 司南杯-高校组
 
 ### 书
 
-* [ ] [量子计算与编程入门](https://quantum-book-by-originq.readthedocs.io/en/latest/index.html)
-* [ ] 人人可懂的量子计算
+* 人人可懂的量子计算
+* [量子计算与编程入门](https://quantum-book-by-originq.readthedocs.io/en/latest/index.html)
 
 ### 视频
 
 * [ ] [大一新生也能懂的量子计算](https://www.bilibili.com/video/BV1oq4y1j7iZ/?spm\_id\_from=333.999.0.0\&vd\_source=50d5a2f0b6e96dc78adab1c38e17adf9)
 * [ ] [CCF量子计算 |01⟩ 量子云计算简介-尹璋琦\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Fs4y1j7Cz/?spm\_id\_from=333.999.0.0\&vd\_source=50d5a2f0b6e96dc78adab1c38e17adf9)
 
-### 大赛官网
+### 大赛官网-本源量子
+
+* [ ] [课程-本源溯知 (originqc.com.cn)](https://learn.originqc.com.cn/course)
+
+### 框架
+
+* [ ] [PyQPanda — pyQPanda 文档 (pyqpanda-toturial.readthedocs.io)](https://pyqpanda-toturial.readthedocs.io/zh/latest/)
+* [ ] [QPanda 2 — QPanda 文档 (qpanda-tutorial.readthedocs.io)](https://qpanda-tutorial.readthedocs.io/zh/latest/)
 {% endhint %}
 
 
