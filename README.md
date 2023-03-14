@@ -29,6 +29,7 @@ description: 先生，你做的每件事，都很重要。
 
 * [ ] 完成一个微信小程序
 * [ ] 利用GPU集群复现一篇AI领域的论文
+* [x] 在[https://note.aiszy.life](https://note.aiszy.life)部署GitBook
 * [ ] 在[https://awszyai.github.io/](https://awszyai.github.io/)上部署Gitbook
 * [ ] 利用前后端知识完成[www.aiszy.life](http://www.aiszy.life/)主页和用户登录及权限分发的设计
 * [ ] 在[www.aiszy.life](http://www.aiszy.life/)集成各大网盘的文件进行在线访问
