@@ -4,10 +4,10 @@ description: 先生，你做的每件事，都很重要。
 
 # Principle：他说
 
-## <mark style="color:green;">时子延应该如何度过他的本科四年？</mark>
+<mark style="color:green;">时子延应该如何度过他的本科四年？</mark>
 
 {% hint style="success" %}
-### <mark style="color:yellow;">大一</mark>
+## <mark style="color:yellow;">大一</mark>
 {% endhint %}
 
 &#x20;      在持续<mark style="color:blue;">阅读</mark>中英语教材、论文、网页；向Bing与ChatGPT<mark style="color:red;">提问</mark>和动手<mark style="color:red;">操作</mark>的过程中掌握AI相关<mark style="color:red;">数学</mark>原理（微积分、离散数学、概率统计、因果论）、培养吃饭用的<mark style="color:red;">代码</mark>实现能力（Python，Java，C/C++，html css javascript，vuen.js）、熟悉<mark style="color:red;">人工智能</mark>目前各个领域（深度学习、计算机视觉、自然语言处理、模式识别）的研究成果（模型、算法、<mark style="color:green;">ChatGPT</mark>、AlphaFold 2），积累单词、语料与科研论文因果逻辑范式具备<mark style="color:red;">英语</mark>无障碍听讲、讨论、纯英语<mark style="color:blue;">论文</mark>撰写的能力。
