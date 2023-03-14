@@ -80,6 +80,7 @@ description: >-
 * [ ] 《C++面向对象程序设计》
 * [ ] e-Effective C++中文第三版
 * [ ] e-[C++Primer3rdEdition中文完美版](https://www.aliyundrive.com/s/M2faiAr86Ve)
+* [ ] [cppreference.com](https://en.cppreference.com/w/)
 {% endtab %}
 
 {% tab title="汇编语言" %}
