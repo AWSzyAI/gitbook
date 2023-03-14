@@ -11,6 +11,7 @@
 ### 视频
 
 * [ ] [大一新生也能懂的量子计算](https://www.bilibili.com/video/BV1oq4y1j7iZ/?spm\_id\_from=333.999.0.0\&vd\_source=50d5a2f0b6e96dc78adab1c38e17adf9)
+* [ ] [Bilibli-Quantum Computing](https://www.bilibili.com/video/BV1oq4y1j7iZ/)
 * [ ] [CCF量子计算 |01⟩ 量子云计算简介-尹璋琦\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Fs4y1j7Cz/?spm\_id\_from=333.999.0.0\&vd\_source=50d5a2f0b6e96dc78adab1c38e17adf9)
 
 ### 大赛官网-本源量子
