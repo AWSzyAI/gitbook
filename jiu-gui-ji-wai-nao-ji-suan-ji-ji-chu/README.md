@@ -8,7 +8,8 @@
 {% endtab %}
 
 {% tab title="操作系统" %}
-
+* [ ] [Yanyan's Wiki (jyywiki.cn)](https://jyywiki.cn/)
+* [ ] [Bilibli-jyy](https://space.bilibili.com/202224425/?spm\_id\_from=333.999.0.0)
 {% endtab %}
 
 {% tab title="数据结构与算法" %}
