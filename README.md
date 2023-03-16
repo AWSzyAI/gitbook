@@ -49,7 +49,7 @@ description: 先生，你做的每件事，都很重要。
 {% hint style="success" %}
 ## 掌握资源
 
-* [x] 电子书获取：z-lib
+* [x] 电子书获取：[\[z-lib1\]](https://lib-vqvyt2uhnkum2skk77wrutac.late.re/) [\[z-lib2\]](https://lib-55y53hcpmot42us4urzdnina.reveal.best/)
 * [ ] ChatGPT-4
 * [ ] Github-Copilot
 * [x] MacBook air M2 16+512 MacOS开发环境
