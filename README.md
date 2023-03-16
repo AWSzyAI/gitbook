@@ -42,6 +42,16 @@ description: 先生，你做的每件事，都很重要。
 * [ ] 《为什么》《因果论》
 * [ ] 《[神经网络与深度学习](https://nndl.github.io/)》
 * [ ] 《自我》
+
+掌握资源
+
+* [x] 电子书获取：z-lib
+* [ ] ChatGPT-4
+* [ ] Github-Copilot
+* [x] MacBook air M2 16+512 MacOS开发环境
+* [x] 云计算平台资源、经验
+* [ ] 南师大GPU集群使用经验
+* [x] 本科学习资料-过程性材料
 {% endhint %}
 
 
