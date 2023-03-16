@@ -43,7 +43,11 @@ description: 先生，你做的每件事，都很重要。
 * [ ] 《[神经网络与深度学习](https://nndl.github.io/)》
 * [ ] 《自我》
 
-掌握资源
+
+{% endhint %}
+
+{% hint style="success" %}
+## 掌握资源
 
 * [x] 电子书获取：z-lib
 * [ ] ChatGPT-4
