@@ -8,9 +8,9 @@
 {% endtab %}
 
 {% tab title="操作系统" %}
-* [ ] [Yanyan's Wiki (jyywiki.cn)](https://jyywiki.cn/)
-* [ ] [Bilibli-jyy](https://space.bilibili.com/202224425/?spm\_id\_from=333.999.0.0)
-* [ ] 《[Linux内核设计的艺术\_图解Linux操作系统架构设计与实现原理\_第2版](https://njnueducn-my.sharepoint.com/:b:/g/personal/19220422\_njnu\_edu\_cn/Ec8rsPfROwNIuEXjriodLnIB0xVOheLQzS\_KOGV-1mYs3A)》
+*
+*
+*
 {% endtab %}
 
 {% tab title="数据结构与算法" %}
@@ -25,3 +25,4 @@
 
 {% endtab %}
 {% endtabs %}
+
