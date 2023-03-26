@@ -5,8 +5,8 @@
 
 ### 书
 
-* 人人可懂的量子计算
-* [量子计算与编程入门](https://quantum-book-by-originq.readthedocs.io/en/latest/index.html)
+* [x] 人人可懂的量子计算
+* [ ] [量子计算与编程入门](https://quantum-book-by-originq.readthedocs.io/en/latest/index.html)
 
 ### 视频
 
