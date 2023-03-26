@@ -17,7 +17,7 @@
 ### 大赛官网-本源量子
 
 * [ ] [课程-本源溯知 (originqc.com.cn)](https://learn.originqc.com.cn/course)
-  * [ ] 量子算法
+* [ ] [题库](https://contest.originqc.com.cn/contest/exercise?contestTrackId=1)
 
 ### 框架
 
