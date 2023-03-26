@@ -47,5 +47,9 @@
 
 * [ ] [Qiskit](https://qiskit.org/)
 * [ ] [pyQuil](https://pyquil-docs.rigetti.com/en/stable/index.html)
+
+### 量子算法
+
+* [ ] [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/)
 {% endhint %}
 
