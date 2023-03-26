@@ -7,6 +7,7 @@
 
 * [x] 人人可懂的量子计算
 * [ ] [量子计算与编程入门](https://quantum-book-by-originq.readthedocs.io/en/latest/index.html)
+* [ ] [量子计算学习 :: 量子计算学习 (qlearn.dev)](https://qlearn.dev/)
 
 ### 视频
 
