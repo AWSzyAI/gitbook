@@ -1,8 +1,6 @@
 # 八、炼丹：AI
 
-{% hint style="success" %}
 学习资源、学习路径、前人经验
-{% endhint %}
 
 {% tabs %}
 {% tab title="算力" %}
@@ -43,3 +41,12 @@
 * [ ] [跟李沐学AI](https://space.bilibili.com/1567748478)
 {% endtab %}
 {% endtabs %}
+
+<details>
+
+<summary>Map</summary>
+
+1. 线性代数
+2.
+
+</details>
