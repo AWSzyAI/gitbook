@@ -26,3 +26,5 @@
 
 [发布Notion笔记](https://www.notion.so/Getting-Started-37012b68f37d4fb9b5036c53002ab7ce?pvs=4)
 
+* [ ] Mac-todesk无法登录
+* [ ] 便捷的gitbook编辑
