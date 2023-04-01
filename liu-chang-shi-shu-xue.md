@@ -15,9 +15,8 @@
 * [ ] 因果论
 {% endtab %}
 
-{% tab title="Untitled" %}
-* [ ] [本源溯知](https://learn.originqc.com.cn/)
-*
+{% tab title="家教" %}
+
 {% endtab %}
 {% endtabs %}
 

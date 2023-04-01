@@ -26,7 +26,7 @@
 * [八、炼丹：AI](ba-wo-zai-ai/README.md)
 * [九、硅基外脑：计算机基础](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/README.md)
   * [操作系统](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/cao-zuo-xi-tong.md)
-  * [命令行](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/ming-ling-hang/README.md)
+  * [命令行](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/ming-ling-hang.md)
     * [grep](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/ming-ling-hang/grep.md)
   * [SSH](jiu-gui-ji-wai-nao-ji-suan-ji-ji-chu/ssh.md)
 * [十、在座的应该只有你不会吧：软件](shi-zai-zuo-de-ying-gai-zhi-you-ni-bu-hui-ba-ruan-jian/README.md)
