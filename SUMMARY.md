@@ -2,11 +2,9 @@
 
 * [Principle：他说](README.md)
 * [时子延是谁？](<README (1).md>)
-  * [2023怎么活的](shi-wu-ren-sheng-de-yi-yi/2023-zen-mo-huo-de.md)
+  * [2023](shi-zi-yan-shi-shui/2023.md)
   * [不会？想会？](shi-er-shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
   * [描述](shi-zi-yan-shi-shui/miao-shu.md)
-* [Page 1](page-1.md)
-* [日志](ri-zhi.md)
 * [一、读不懂就别读了：如何阅读？](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/README.md)
   * [阅读教材](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/yue-du-jiao-cai.md)
   * [阅读书单](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/yue-du-shu-dan.md)

@@ -1,6 +1,5 @@
 ---
-description: >-
-  如何定义一个人？尤其是像时子延这样的人？首先要看他在做什么、做过什么，怎么做的，其次是看他想些什么，怎么想的？最后从中发现共同遵守的一些范式与原则，萃取为风格，这个逻辑自主系统，就可以被称为时子延的模拟了。
+description: 认识时子延？快速开始！
 ---
 
 # 时子延是谁？
@@ -11,8 +10,6 @@ description: >-
 * [时子延行为日志](http://www.aiszy.life/data.html)
 * [时子延手稿](https://szy-2.gitbook.io/szynote/)
 * [Github](https://github.com/AWSzyAI)
-* QQ空间:189187327
-* 朋友圈
 * 知乎
 * szy@nnu.edu.cn
 {% endtab %}
