@@ -50,7 +50,7 @@ description: 先生，你做的每件事，都很重要。
 ## 掌握资源
 
 * [x] 电子书获取：[\[z-lib1\]](https://lib-vqvyt2uhnkum2skk77wrutac.late.re/) [\[z-lib2\]](https://lib-55y53hcpmot42us4urzdnina.reveal.best/)
-* [ ] ChatGPT-4
+* [x] ChatGPT-4
 * [x] Github-Copilot
 * [x] MacBook air M2 16+512 MacOS开发环境
 * [x] 云计算平台资源、经验
@@ -67,6 +67,8 @@ description: 先生，你做的每件事，都很重要。
 > 经历了大一的摸索，大二的时子延将会更加聚焦。
 
 大二的时子延，将：
+
+
 
 {% hint style="danger" %}
 ## 大三
