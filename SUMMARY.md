@@ -5,6 +5,8 @@
   * [时子延个人简历](shi-zi-yan-shi-shui/shi-zi-yan-ge-ren-jian-li.md)
   * [2023](shi-wu-ren-sheng-de-yi-yi/2023-zen-mo-huo-de.md)
   * [不会？想会？](shi-er-shi-zi-yan-shi-shui/bu-hui-xiang-hui.md)
+* [日志（大二上）](ri-zhi-da-er-shang.md)
+* [English Presentation](english-presentation.md)
 * [一、读不懂就别读了：如何阅读？](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/README.md)
   * [阅读教材](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/yue-du-jiao-cai.md)
   * [阅读书单](yi-du-bu-dong-jiu-bie-du-le-ru-he-yue-du/yue-du-shu-dan.md)
