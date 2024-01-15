@@ -2,9 +2,9 @@
 description: //本文转自
 ---
 
-# 阅读教材
+# 如何阅读教材？
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 在求知的过程中，我们经常会要面对这样，那样的<mark style="color:blue;">诱惑</mark>。
 
